@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bioinformatics one-liners
 
 [![DOI](https://zenodo.org/badge/3882/stephenturner/oneliners.svg)](https://zenodo.org/badge/latestdoi/3882/stephenturner/oneliners)
@@ -581,3 +582,7 @@ Find files containing text (`-l` outputs only the file names, `-i` ignores the c
 
     grep -lir "some text" *
 
+=======
+# scripts
+A few fun and helpful scripts
+>>>>>>> 7731068e99dc672419d9587e76ec683231d2d806
