@@ -8,4 +8,10 @@ mag=$'\e[1;35m'
 cyn=$'\e[1;36m'
 end=$'\e[0m'
 
-
+export red
+export grn
+export blu
+export yel
+export mag
+export cyn
+export end
